@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <!-- <img align="right" alt="Coding" width="250" src = "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" > -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" />
+<p align="center"> <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
 <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
   <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
   <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
