@@ -4,6 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" />
 <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
+  <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
+  <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
+  <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranprogrammer9" alt="imranprogrammer9" /></a> </p>
 
