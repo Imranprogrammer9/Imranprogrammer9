@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="250" src = "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranprogrammer9" alt="imranprogrammer9" /></a> </p>
 
 - 🔭 I’m currently working on **HTML,CSS and JavaScript**
