@@ -1,5 +1,5 @@
 <h2 align="left">Hello Folks, I am Imran Haider 👋</h2>
-<h3 align="left">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="250" src = "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
