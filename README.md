@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I love to make creative projects with concepts I learn | Learn new stuff related to programming/coding | To keep observing new things**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imran_dev92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_dev92" height="30" width="40" /></a>
