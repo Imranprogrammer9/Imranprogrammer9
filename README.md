@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <!-- <img align="right" alt="Coding" width="250" src = "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" > -->
 
-<p align="center"> <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
+<p align="center"> <img src="https://camo.githubusercontent.com/af17ef7c23fb7258b71d62a897787b0ed0871938f97b1e1572dc726c2b2d27e7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696d72616e70726f6772616d6d657239266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="imranprogrammer9" data-canonical-src="https://komarev.com/ghpvc/?username=imranprogrammer9&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
   <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
   <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
