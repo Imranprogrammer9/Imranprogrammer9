@@ -5,10 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranprogrammer9" alt="imranprogrammer9" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imranprogrammer9&label=Profile%20views&color=0e75b6&style=flat" alt="imranprogrammer9" /> </p>
+
 
 - 🔭 I’m currently working on **HTML,CSS and JavaScript**
 
