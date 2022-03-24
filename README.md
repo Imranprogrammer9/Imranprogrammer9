@@ -43,8 +43,7 @@
 
 <p></p>
 
-<p> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=imranprogrammer9&show_icons=true&locale=en" alt="imranprogrammer9" /></p>
+<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=imranprogrammer9&show_icons=true&locale=en" alt="imranprogrammer9" /></p>
 
- <p></p>
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imranprogrammer9&" alt="imranprogrammer9" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranprogrammer9&" alt="imranprogrammer9" /></p>
