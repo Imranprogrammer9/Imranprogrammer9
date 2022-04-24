@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **HTML,CSS and JavaScript**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Front End Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
