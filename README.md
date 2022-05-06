@@ -28,6 +28,7 @@
 <a href="https://linkedin.com/in/imran-haider-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-haider-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/imran.programmer45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran.programmer45" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imranhaider5687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imranhaider5687" height="30" width="40" /></a>
+<a href="https://dev.to/imranprogrammer9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="imranprogrammer9" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages</h3>
