@@ -1,6 +1,6 @@
 ![Imran Haider_1](https://user-images.githubusercontent.com/90908160/159500427-5c48be7f-e69a-40f3-ac5f-cfa49f5b5034.png)
 <h2 align="center">Hello Folks, I am Imran Haider 👋</h2>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 <!-- <img align="right" alt="Coding" width="250" src = "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" > -->
 
 <!-- <p align="center"> 
