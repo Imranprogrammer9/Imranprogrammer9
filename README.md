@@ -1,4 +1,4 @@
-![Imran Haider_1](https://user-images.githubusercontent.com/90908160/159500427-5c48be7f-e69a-40f3-ac5f-cfa49f5b5034.png)
+![grey and white modern business profile linkedin banner](https://user-images.githubusercontent.com/90908160/179348973-af7104d6-bd31-4a3a-a241-1e260e50c262.png)
 <h2 align="center">Hello Folks, Welcome to my profile <br> I am Imran Haider 👋</h2>
 <h3 align="center">Frontend Developer / UI UX Designer</h3>
 <!-- <img align="right" alt="Coding" width="250" src = "https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" > -->
