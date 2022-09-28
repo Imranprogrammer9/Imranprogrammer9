@@ -1,6 +1,7 @@
 ![Imran Haider](https://user-images.githubusercontent.com/90908160/192677874-c52eb514-21b1-4a3a-baec-68f4dd3a34cd.png)
 <h2 align="center">Hello Folks, Welcome to my profile <br> I am Imran Haider 👋</h2>
 <h3 align="center">Frontend Developer / UI UX Designer</h3>
+<br>
 <img align="right" alt="Coding" width="200" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" >
 
 <!-- <p align="center"> 
