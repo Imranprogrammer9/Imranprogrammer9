@@ -1,8 +1,7 @@
 ![Imran Haider](https://user-images.githubusercontent.com/90908160/192677874-c52eb514-21b1-4a3a-baec-68f4dd3a34cd.png)
 <h2 align="center">Hello Folks, Welcome to my profile <br> I am Imran Haider 👋</h2>
 <h3 align="center">Frontend Developer / UI UX Designer</h3>
-<img align="right" alt="Coding" width="200" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" >
-
+<img align="right" alt="Coding" width="250" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 <!-- <p align="center"> 
   <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
   <img src="https://img.shields.io/twitter/url?color=%231D9BF0&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimran_dev92" alt="imran_dev92" />
@@ -21,7 +20,6 @@
 - 📫 How to reach me **imranhaider5687@gmail.com**
 
 - ⚡ Fun fact **I love to make creative projects with concepts I learn | Learn new stuff related to programming/coding | To keep observing new things**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imran_dev92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_dev92" height="30" width="40" /></a>
